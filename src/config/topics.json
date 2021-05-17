@@ -95,6 +95,7 @@
   ],
   "pt":[
     {"label": "Todas as editorias", "value": []},
+    {"label": "Jogos Olímpicos", "value": ["ONLINE-NEWS-PT_JOGOS-OLIMP"]},
     {"label": "Mundo", "value": ["ONLINE-NEWS-PT_MUNDO"]},
     {"label": "América Latina", "value": ["ONLINE-NEWS-PT_AMERICA-LATINA"]},
     {"label": "Economia", "value": ["ONLINE-NEWS-PT_ECONOMIA"]},
@@ -109,6 +110,7 @@
   ],
   "es": [
     {"label": "Todas las categorías", "value": []},
+    {"label": "Juegos Olímpicos", "value": ["ONLINE-NEWS-ES_JO"]},
     {"label": "Mundo", "value": ["ONLINE-NEWS-ES_MUNDO"]},
     {"label": "Latinoamérica Ya !", "value": ["ONLINE-NEWS-ES_LATINOAMERICA"]},
     {"label": "España", "value": ["ONLINE-NEWS-ES_ESPANA"]},
