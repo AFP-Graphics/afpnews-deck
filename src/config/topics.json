@@ -48,6 +48,7 @@
   ],
   "de": [
     {"label": "Alle Rubriken", "value": []},
+    {"label": "Olympia", "value": ["ONLINE-NEWS-SID_OLYMPIA"]},
     {"label": "Topthemen", "value": ["ONLINE-NEWS-DE_TOPTHEMEN"]},
     {"label": "Wirtschaft", "value": ["ONLINE-NEWS-DE_WIRTSCHAFT"]},
     {"label": "Deutschland", "value": ["ONLINE-NEWS-DE_DEUTSCHLAND"]},
